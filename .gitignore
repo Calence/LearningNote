@@ -20,3 +20,4 @@
 *.pch
 */Debug
 *.vs
+./build
